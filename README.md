@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Android app development
 - 📫 You Can contact me on - mail- adityambha@outlook.com
-telegram- @ImAdisharma
+-                             telegram- @ImAdisharma
 
 <!---
 imAdityaSharma/imAdityaSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
