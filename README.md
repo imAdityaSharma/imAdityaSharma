@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A aspiring ML Engineer from India</h3>
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **adityambha@outlook.com**
 
